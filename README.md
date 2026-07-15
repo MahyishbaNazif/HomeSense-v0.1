@@ -127,3 +127,10 @@ Version: **v0.1**
 
 ### Profile
 ![Profile](assets/Profile.png)
+
+
+## 🎮 Interactive Prototype
+
+👉 View the HomeSense v0.1 prototype here:
+
+https://www.figma.com/design/KQmx2h65ZzPemIEemzGpQU/HomeSense-v0.1?node-id=0-1&t=PwVzfbkojct5325U-1
