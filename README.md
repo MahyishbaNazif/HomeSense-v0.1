@@ -98,3 +98,32 @@ HomeSense-v0.1
 BS Artificial Intelligence Student
 
 Version: **v0.1**
+
+## 📸 Screenshots
+
+### Splash Screen
+![Splash Screen](assets/Splash%20Screen.png)
+
+### Home
+![Home](assets/Home.png)
+
+### Devices
+![Devices](assets/Devices.png)
+
+### Lights
+![Lights](assets/Lights.png)
+
+### Living Room
+![Living Room](assets/Living%20Room.png)
+
+### Kitchen
+![Kitchen](assets/Kitchen.png)
+
+### Bedroom
+![Bedroom](assets/Bedroom.png)
+
+### Bathroom
+![Bathroom](assets/Bathroom.png)
+
+### Profile
+![Profile](assets/Profile.png)
